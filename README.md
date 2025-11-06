@@ -1,4 +1,4 @@
- Compte créé par <jpeg62> pour le cours SCI6201 de l'EBSI
+ Compte créé par jpeg62 pour le cours SCI6201 de l'EBSI
 
 <!--
 **jpeg62/jpeg62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
